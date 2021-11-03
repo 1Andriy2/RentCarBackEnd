@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bf5850aa734b7af18e5301f072ed33cb",
+    "content-hash": "49bde4ece7dbc72a33d3c9d437678277",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2116,16 +2116,16 @@
         },
         {
             "name": "mongodb/mongodb",
-            "version": "1.10.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mongodb/mongo-php-library.git",
-                "reference": "b0bbd657f84219212487d01a8ffe93a789e1e488"
+                "reference": "d9b563b41f21a7152f127f4d997daa46bcbc0bbe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mongodb/mongo-php-library/zipball/b0bbd657f84219212487d01a8ffe93a789e1e488",
-                "reference": "b0bbd657f84219212487d01a8ffe93a789e1e488",
+                "url": "https://api.github.com/repos/mongodb/mongo-php-library/zipball/d9b563b41f21a7152f127f4d997daa46bcbc0bbe",
+                "reference": "d9b563b41f21a7152f127f4d997daa46bcbc0bbe",
                 "shasum": ""
             },
             "require": {
@@ -2141,10 +2141,11 @@
                 "squizlabs/php_codesniffer": "^3.6",
                 "symfony/phpunit-bridge": "^5.2"
             },
+            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.10.x-dev"
+                    "dev-master": "1.11.x-dev"
                 }
             },
             "autoload": {
@@ -2179,9 +2180,9 @@
             ],
             "support": {
                 "issues": "https://github.com/mongodb/mongo-php-library/issues",
-                "source": "https://github.com/mongodb/mongo-php-library/tree/1.10.0"
+                "source": "https://github.com/mongodb/mongo-php-library/tree/master"
             },
-            "time": "2021-10-20T22:22:37+00:00"
+            "time": "2021-11-02T21:18:50+00:00"
         },
         {
             "name": "monolog/monolog",
