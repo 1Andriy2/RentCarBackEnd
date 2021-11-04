@@ -14,7 +14,7 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.3",
-        "mongodb/mongodb": "^1.10",
+        "mongodb/mongodb": "^1.11",
         "soyuka/stubs-mongodb": "^1.0"
     },
     "require-dev": {
